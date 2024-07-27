@@ -40,14 +40,10 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "Startup gamification web app and mobile app",
+    "desc": "Startup simulation game that educates future entrepreneurs and founders about basic business processes and prepares them for a real-world scenario. We were involved in the ideation phase and build a web and a mobile app.",
     "image": "instagrammern",
     "category": "mern",
-    "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
-    }
   },
   {
     "name": "Flipkart MERN",
